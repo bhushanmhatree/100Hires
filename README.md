@@ -24,7 +24,7 @@ Placeholder for research decisions, assumptions, and next steps.
 
 ## Project Log
 
-- Installed Cursor IDE (https://cursor.com/)
+- Installed Cursor IDE ([https://cursor.com/](https://cursor.com/))
 - Youtube Search (What is Cursor, How to Add Claude Code to Cursor, How to add Codex to Cursor, How to add Extensions)
 - Claude Code Extension Added (Subscription Required to Sign In)
 - Google Search (How to get Free Claude Code on Cursor)
@@ -41,3 +41,4 @@ Placeholder for research decisions, assumptions, and next steps.
 - Downloaded Git (Completed Setup)
 - Created Clone for Repository into Cursor
 - And uploaded the tasks done.
+
