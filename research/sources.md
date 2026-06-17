@@ -1,4 +1,4 @@
-# Expert sources — LinkedIn B2B organic strategy
+# Expert sources - LinkedIn B2B organic strategy
 _Last updated: 2026-06-17 · 10 experts_
 
 ---
@@ -9,7 +9,6 @@ _Last updated: 2026-06-17 · 10 experts_
 - **Focus areas:** [Business Frameworks]  
 - **Content collected:** [5]  
 - **Key insight:** [Highly uses infographics images with written content ]
----
 
 ---
 ## 2. [Ruben Hassid]
@@ -19,67 +18,60 @@ _Last updated: 2026-06-17 · 10 experts_
 - **Focus areas:** [How to Use AI, Claude]  
 - **Content collected:** [5]
 - **Key insight:** [Provides easy ways to use and create with Claude and other AI Platforms]
----
 
 ---
-## 3. [TO FILL]
-- **LinkedIn:** [TO FILL]  
+## 3. [Ishan Sharma]
+- **LinkedIn:** [https://www.linkedin.com/in/ishansharma7390/]  
+- **Added:** [17-06-2026]  
+- **Why practitioner:** [TO FILL]  
+- **Focus areas:** [TO FILL]  
+- **Content collected:** [5] 
+- **Key insight:** [TO FILL]
+
+---
+## 4. [Matt Barker]
+- **LinkedIn:** [https://www.linkedin.com/in/mattjbarker1/]  
+- **Added:** [17-06-2026]  
+- **Why practitioner:** [TO FILL]  
+- **Focus areas:** [TO FILL]  
+- **Content collected:** [5]  
+- **Key insight:** [TO FILL]
+
+---
+## 5. [Courtney Johnson]
+- **LinkedIn:** [https://www.linkedin.com/in/courtneylynnjohnson/]  
+- **Added:** [17-06-2026]  
+- **Why practitioner:** [TO FILL]  
+- **Focus areas:** [TO FILL]  
+- **Content collected:** [5] 
+- **Key insight:** [TO FILL]
+
+---
+## 6. [Saheli Chatterjee]
+- **LinkedIn:** [https://www.linkedin.com/in/saheli-chatterjee-organic-marketing/]  
+- **Added:** [17-06-2026]  
+- **Why practitioner:** [TO FILL]  
+- **Focus areas:** [TO FILL]  
+- **Content collected:** [TO FILL] 
+- **Key insight:** [TO FILL]
+
+---
+## 7. [Lara Acostar]
+- **LinkedIn:** [https://www.linkedin.com/in/laraacostar/]  
 - **Added:** [TO FILL]  
 - **Why practitioner:** [TO FILL]  
 - **Focus areas:** [TO FILL]  
-- **Content collected:** [TO FILL] LinkedIn posts · [TO FILL] YouTube transcripts · [TO FILL] other  
+- **Content collected:** [TO FILL]  
 - **Key insight:** [TO FILL]
----
 
 ---
-## 4. [TO FILL]
-- **LinkedIn:** [TO FILL]  
+## 8. [Vedika Bhaia]
+- **LinkedIn:** [https://www.linkedin.com/in/vedikabhaia/]  
 - **Added:** [TO FILL]  
 - **Why practitioner:** [TO FILL]  
 - **Focus areas:** [TO FILL]  
-- **Content collected:** [TO FILL] LinkedIn posts · [TO FILL] YouTube transcripts · [TO FILL] other  
+- **Content collected:** [TO FILL]  
 - **Key insight:** [TO FILL]
----
-
----
-## 5. [TO FILL]
-- **LinkedIn:** [TO FILL]  
-- **Added:** [TO FILL]  
-- **Why practitioner:** [TO FILL]  
-- **Focus areas:** [TO FILL]  
-- **Content collected:** [TO FILL] LinkedIn posts · [TO FILL] YouTube transcripts · [TO FILL] other  
-- **Key insight:** [TO FILL]
----
-
----
-## 6. [TO FILL]
-- **LinkedIn:** [TO FILL]  
-- **Added:** [TO FILL]  
-- **Why practitioner:** [TO FILL]  
-- **Focus areas:** [TO FILL]  
-- **Content collected:** [TO FILL] LinkedIn posts · [TO FILL] YouTube transcripts · [TO FILL] other  
-- **Key insight:** [TO FILL]
----
-
----
-## 7. [TO FILL]
-- **LinkedIn:** [TO FILL]  
-- **Added:** [TO FILL]  
-- **Why practitioner:** [TO FILL]  
-- **Focus areas:** [TO FILL]  
-- **Content collected:** [TO FILL] LinkedIn posts · [TO FILL] YouTube transcripts · [TO FILL] other  
-- **Key insight:** [TO FILL]
----
-
----
-## 8. [TO FILL]
-- **LinkedIn:** [TO FILL]  
-- **Added:** [TO FILL]  
-- **Why practitioner:** [TO FILL]  
-- **Focus areas:** [TO FILL]  
-- **Content collected:** [TO FILL] LinkedIn posts · [TO FILL] YouTube transcripts · [TO FILL] other  
-- **Key insight:** [TO FILL]
----
 
 ---
 ## 9. [TO FILL]
@@ -87,9 +79,8 @@ _Last updated: 2026-06-17 · 10 experts_
 - **Added:** [TO FILL]  
 - **Why practitioner:** [TO FILL]  
 - **Focus areas:** [TO FILL]  
-- **Content collected:** [TO FILL] LinkedIn posts · [TO FILL] YouTube transcripts · [TO FILL] other  
+- **Content collected:** [TO FILL]
 - **Key insight:** [TO FILL]
----
 
 ---
 ## 10. [TO FILL]
@@ -97,6 +88,6 @@ _Last updated: 2026-06-17 · 10 experts_
 - **Added:** [TO FILL]  
 - **Why practitioner:** [TO FILL]  
 - **Focus areas:** [TO FILL]  
-- **Content collected:** [TO FILL] LinkedIn posts · [TO FILL] YouTube transcripts · [TO FILL] other  
+- **Content collected:** [TO FILL] 
 - **Key insight:** [TO FILL]
 ---
