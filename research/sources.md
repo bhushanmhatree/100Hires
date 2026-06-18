@@ -84,7 +84,7 @@
 ## 8. [Vedika Bhaia]
 
 - **LinkedIn:** [[https://www.linkedin.com/in/vedikabhaia/]](https://www.linkedin.com/in/vedikabhaia/])  
-- **Added:** [TO FILL]  
+- **Added:** [18-06-2026]  
 - **Why practitioner:** [TO FILL]  
 - **Focus areas:** [TO FILL]  
 - **Content collected:** [TO FILL]  
@@ -92,10 +92,10 @@
 
 ---
 
-## 9. [TO FILL]
+## 9. [Simon Schmitz]
 
-- **LinkedIn:** [TO FILL]  
-- **Added:** [TO FILL]  
+- **LinkedIn:** [https://www.linkedin.com/in/simon-schmitz-tx/]  
+- **Added:** [18-06-2026]  
 - **Why practitioner:** [TO FILL]  
 - **Focus areas:** [TO FILL]  
 - **Content collected:** [TO FILL]
@@ -103,10 +103,10 @@
 
 ---
 
-## 10. [TO FILL]
+## 10. [James Peters]
 
-- **LinkedIn:** [TO FILL]  
-- **Added:** [TO FILL]  
+- **LinkedIn:** [https://www.linkedin.com/in/jamesajpeters/]  
+- **Added:** [18-06-2026]  
 - **Why practitioner:** [TO FILL]  
 - **Focus areas:** [TO FILL]  
 - **Content collected:** [TO FILL] 

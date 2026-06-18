@@ -1,9 +1,15 @@
 ### Expert Name: Saheli Chatterjee
-### LinkedIn Account (https://www.linkedin.com/in/saheli-chatterjee-organic-marketing/)
+
+### LinkedIn Account ([https://www.linkedin.com/in/saheli-chatterjee-organic-marketing/](https://www.linkedin.com/in/saheli-chatterjee-organic-marketing/))
+
 ---
-### LinkedIn Post 1 (https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_for-a-month-i-watched-my-sister-obsess-over-activity-7472864729519001601-Zt4o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
+
+### LinkedIn Post 1 ([https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_for-a-month-i-watched-my-sister-obsess-over-activity-7472864729519001601-Zt4o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0](https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_for-a-month-i-watched-my-sister-obsess-over-activity-7472864729519001601-Zt4o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0))
+
 ### Post Date: 17-06-2026
+
 ### Post Text:
+
 For a month, I watched my sister obsess over the Diet Coke shortage in India.
 Every grocery run ended the same way:
 
@@ -14,6 +20,7 @@ Every grocery run ended the same way:
 At some point, I was annoyed:
 Why can't she just... drink something else?
 There are hundreds of beverages on the shelf.
+
 - Regular Coke.
 - Coke Zero.
 - Pepsi.
@@ -39,6 +46,7 @@ During the shortage, "Diet Coke parties" emerged in cities like Delhi and Mumbai
 What's remarkable is that Diet Coke has developed a community that takes decades to build.
 
 People:
+
 - Post aesthetic Diet Coke photos
 - Carry cans to work, feature it in desk setup
 - Joke about addiction
@@ -46,9 +54,13 @@ People:
 But that's just me. Why do you think Indians are obsessed with Diet Coke?
 
 ---
-### LinkedIn Post 2 (https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_10-practical-ways-you-can-use-gemini-omni-activity-7472520817663332352-sE_e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
+
+### LinkedIn Post 2 ([https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_10-practical-ways-you-can-use-gemini-omni-activity-7472520817663332352-sE_e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0](https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_10-practical-ways-you-can-use-gemini-omni-activity-7472520817663332352-sE_e?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0))
+
 ### Post Date: 16-06-2026
+
 ### Post Text:
+
 10 Practical Ways You Can Use Gemini Omni for Business & Marketing 🕵️‍♀️
 
 1. Upload product photos and tell Gemini:
@@ -61,7 +73,7 @@ Ideal for:
 → SaaS products
 → Local businesses
 
-2. Create Founder Story Videos ✍️
+1. Create Founder Story Videos ✍️
 
 Upload your photo and provide your story.
 
@@ -71,7 +83,7 @@ Prompt:
 
 Excellent for brand building.
 
-3. Make Educational Content
+1. Make Educational Content
 
 Turn expertise into visual lessons.
 
@@ -84,7 +96,7 @@ Perfect for:
 → Consultants
 → Agencies
 
-4. Reimagine Your Brand Inside Iconic Worlds👩‍💻
+1. Reimagine Your Brand Inside Iconic Worlds👩‍💻
 
 One of the most creative uses of Gemini Omni:
 
@@ -98,7 +110,7 @@ Examples:
 → Your startup journey as a Star Wars adventure.
 → Your team as characters in a fantasy kingdom.
 
-5. Create Personalized Outreach Videos
+1. Create Personalized Outreach Videos
 
 Upload a prospect's company logo or website screenshot.
 
@@ -108,16 +120,18 @@ Ask Gemini:
 
 This will make you actually stand out. 
 
-
-
 Want more ideas? 💡 Checkout my youtube channel.
 
 Which use case would help your business the most?
 
 ---
-### LinkedIn Post 3 (https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_everything-im-trying-to-learn-at-27-ai-activity-7472176436938706946-9ni5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
+
+### LinkedIn Post 3 ([https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_everything-im-trying-to-learn-at-27-ai-activity-7472176436938706946-9ni5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0](https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_everything-im-trying-to-learn-at-27-ai-activity-7472176436938706946-9ni5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0))
+
 ### Post Date: 15-06-2026
+
 ### Post Text:
+
 Everything I'm Trying To Learn At 27
 
 → AI, obvious, but most people are still using it wrong
@@ -149,9 +163,13 @@ Consider this your invitation to follow along.
 P.S. What's the one thing you're trying to learn this year that nobody around you is talking about?
 
 ---
-### LinkedIn Post 4 (https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_claude-aiformarketers-learnai-activity-7471442923310534656-BN0F?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
+
+### LinkedIn Post 4 ([https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_claude-aiformarketers-learnai-activity-7471442923310534656-BN0F?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0](https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_claude-aiformarketers-learnai-activity-7471442923310534656-BN0F?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0))
+
 ### Post Date: 14-06-2026
+
 ### Post Text:
+
 You don't need to spend ₹1,00,000 to learn Claude.
 
 Here are the only 10 resources you actually need, from complete beginner to building real things.
@@ -162,19 +180,19 @@ START HERE: Anthropic's own free courses (with certificates):
 
 → AI Fluency: Framework & Foundations by Anthropic Academy
 The one I'd give my mom. No tech background needed. 
-Link: https://lnkd.in/dZdsxTTv
+Link: [https://lnkd.in/dZdsxTTv](https://lnkd.in/dZdsxTTv)
 
 → Introduction to Agent Skills
  Learn how to build, configure, and share Skills in Claude Code.
-Link: https://lnkd.in/dMmPX7dw
+Link: [https://lnkd.in/dMmPX7dw](https://lnkd.in/dMmPX7dw)
 
 → MCP Advanced Topics on Anthropic
 In this you get a deep dive into MCP's advanced features including sampling, notifications, and transport implementations
-Link: https://lnkd.in/djmPssxK
+Link: [https://lnkd.in/djmPssxK](https://lnkd.in/djmPssxK)
 
 → Building with the Claude API
  Authentication, requests, streaming, tool use. For when you want to build, not just chat. 
-Link: https://lnkd.in/d3xZpwix
+Link: [https://lnkd.in/d3xZpwix](https://lnkd.in/d3xZpwix)
 
 → Claude Code in Action — Anthropic Academy
 Practical course on AI-assisted coding. The one developers are obsessing over in 2026. 
@@ -188,7 +206,7 @@ Link: youtu.be/05aY2LRIC3s
 
 → Ruben Hassid's newsletter, How to AI is a go-to.
 He breaks it down practically, unlike theoretical courses. I made 30 Content pieces in a day while browsing his tips.
-Link: https://lnkd.in/dTMqGHYT
+Link: [https://lnkd.in/dTMqGHYT](https://lnkd.in/dTMqGHYT)
 
 FOR THE VISUAL LEARNERS:
 
@@ -206,7 +224,7 @@ Link: youtu.be/05aY2LRIC3s
 
 → Claude Code Tutorial 
 Recommended if you learn better with context. 
-Link: https://ccforeveryone.com/
+Link: [https://ccforeveryone.com/](https://ccforeveryone.com/)
 
 FOR THE MARKETERS & SOLOPRENEURS:
 
@@ -218,9 +236,13 @@ The only thing standing between you and using AI better than 95% of people is wh
  ♻️ Repost for the person still Googling "how to use Claude."
 
 ---
-### LinkedIn Post 5 (https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_anthropic-just-dropped-claude-fable-5-and-activity-7470736743433072640-YqtM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
+
+### LinkedIn Post 5 ([https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_anthropic-just-dropped-claude-fable-5-and-activity-7470736743433072640-YqtM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0](https://www.linkedin.com/posts/saheli-chatterjee-organic-marketing_anthropic-just-dropped-claude-fable-5-and-activity-7470736743433072640-YqtM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0))
+
 ### Post Date: 11-06-2026
+
 ### Post Text:
+
 Anthropic just dropped Claude Fable 5.
 And if you're on Pro, Max, Team or Enterprise, you can use it free until June 22nd. 🙂‍↕️ 
 This is the most capable Claude model ever released. 
@@ -239,6 +261,8 @@ Here's how to actually prompt it.
 Save this. You'll need it before the 22nd.
 
 ♻️ Repost if you found this helpful.
-> ![image alt](https://github.com/bhushanmhatree/100Hires/blob/d3be938f1e97306a63e0c9a2276bbeb0f952c76a/research/others/Saheli%20Post%205.jpg)
+
+> image alt
 
 ---
+
