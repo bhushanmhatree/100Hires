@@ -50,7 +50,7 @@
 
 ## 5. [Jess Ramos]
 
-- **LinkedIn:** [[https://www.linkedin.com/in/jessramosmsba/](https://www.linkedin.com/in/courtneylynnjohnson/])]
+- **LinkedIn:** [[https://www.linkedin.com/in/jessramosmsba/](https://www.linkedin.com/in/jessramosmsba/)]
 - **Added:** [18-06-2026]  
 - **Why practitioner:** [Talks about Data and AI Founders]  
 - **Focus areas:** [AI, Data Science, Tech]  
@@ -62,11 +62,11 @@
 ## 6. [Saheli Chatterjee]
 
 - **LinkedIn:** [[https://www.linkedin.com/in/saheli-chatterjee-organic-marketing/]](https://www.linkedin.com/in/saheli-chatterjee-organic-marketing/])  
-- **Added:** [17-06-2026]  
-- **Why practitioner:** [TO FILL]  
-- **Focus areas:** [TO FILL]  
-- **Content collected:** [TO FILL] 
-- **Key insight:** [TO FILL]
+- **Added:** [18-06-2026]  
+- **Why practitioner:** [Great at storytelling with pratical use cases]  
+- **Focus areas:** [Organic Marketing, Content Creation, Sales]  
+- **Content collected:** [5] 
+- **Key insight:** [Talks about Organic Marketing, How to use AI for Content Creation]
 
 ---
 
