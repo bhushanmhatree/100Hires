@@ -25,7 +25,7 @@ _Last updated: 2026-06-17 · 10 experts_
 - **Added:** [17-06-2026]  
 - **Why practitioner:** [Runs marketing agency called MarkitUp, Talks about Marketing and AI Applications]  
 - **Focus areas:** [Marketing, Personal Branding, AI]  
-- **Content collected:** [5] 
+- **Content collected:** [4] 
 - **Key insight:** [Provide wide range of topics from AI, Marketing, Branding and SAAS Applications]
 
 ---
