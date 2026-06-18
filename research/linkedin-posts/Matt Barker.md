@@ -30,7 +30,7 @@ It's inside Your Next Post: https://lnkd.in/gcw3Crgh
 
 Bring a topic, answer a few questions and walk away with a story for your next LinkedIn post.
 
-> ![image alt]()
+> ![image alt](https://github.com/bhushanmhatree/100Hires/blob/fd839d7aa3251dbbb9ad4e64d600b161037db2bd/research/others/Matt%20Post%201.jpg)
 
 ---
 ### LinkedIn Post 2 (https://www.linkedin.com/posts/mattjbarker1_i-did-it-i-completed-my-30-day-linkedin-activity-7472618597664813056-4--S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
