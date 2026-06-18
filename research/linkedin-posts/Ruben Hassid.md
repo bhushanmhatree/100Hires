@@ -1,5 +1,5 @@
-### Expert Name: 
-### LinkedIn Account ()
+### Expert Name: Ruben Hassid
+### LinkedIn Account (https://www.linkedin.com/in/ruben-hassid/)
 ---
 ### LinkedIn Post 1 () | Date: 17-06-2026
 ### Post Text:
