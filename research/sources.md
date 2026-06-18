@@ -2,7 +2,7 @@
 _Last updated: 2026-06-17 · 10 experts_
 
 ---
-## 1. [Erik Partaker]
+## 1. [Eric Partaker]
 - **LinkedIn:** [https://www.linkedin.com/in/ericpartaker/]  
 - **Added:** [17-06-2026]  
 - **Why practitioner:** [Award winner CEO and Author talks about Frameworks, Leadership, Business Insights]  
