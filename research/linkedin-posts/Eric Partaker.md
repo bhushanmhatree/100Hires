@@ -128,7 +128,7 @@ Start small. Stay steady. One day you'll look back and see how far you've come.
 
 P.S. Want my Kaizen Cheat Sheet, free? https://lnkd.in/eW2iabTc
 
-> ![image alt]()
+> ![image alt](https://github.com/bhushanmhatree/100Hires/blob/eb4cf9732f247cc4fded2277417632a9f0fff9fc/research/others/Eric%20Post%203.jpg)
 
 ---
 ### LinkedIn Post 4 (https://www.linkedin.com/posts/ericpartaker_i-learned-this-the-hard-way-in-my-2nd-year-activity-7471894212008124416-LVFf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
