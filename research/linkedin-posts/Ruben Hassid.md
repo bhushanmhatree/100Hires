@@ -57,7 +57,7 @@ Step 4. Hit the automatic reply button inside.
 Step 5. Download my infographics from my Notion.
 Bonus. Get my full Claude Code mega-prompt + handoff prompt, too.
 
-> ![image alt]()
+> ![image alt](https://github.com/bhushanmhatree/100Hires/blob/e3e05512476de1f50e793c3935b96188b722bee7/research/others/Ruben%20Post%201.jpg)
 
 ---
 ### LinkedIn Post 2 (https://www.linkedin.com/posts/ruben-hassid_stop-writing-short-prompts-to-save-claude-activity-7472966350789873664-zC8n?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
@@ -215,10 +215,10 @@ Subscribe for free. Don't pay anything.
 Hit the auto-reply button inside the welcome email.
 Open the Notion link. Go to 'md files' folder.
 Download my exact .md files. Ready to upload.
-> ![image alt]()
+> ![image alt](https://github.com/bhushanmhatree/100Hires/blob/4b03fdf740b9362862284bcbea32059d54732a23/research/others/Ruben%20Post%204.jpg)
 
 ---
-### LinkedIn Post 5 ()
+### LinkedIn Post 5 (https://www.linkedin.com/posts/ruben-hassid_how-to-never-be-stuck-on-i-dont-know-how-activity-7472513317341884416-520Q?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
 ### Post Date: 15-06-2026
 ### Post Text:
 How to never be stuck on "I don't know how" again:
@@ -270,6 +270,6 @@ PS: I couldn't paste the entire prompt here.
 
 Access the full skill here: https://lnkd.in/e5kk5BSV
 
-> ![image alt]()
+> ![image alt](https://github.com/bhushanmhatree/100Hires/blob/4b03fdf740b9362862284bcbea32059d54732a23/research/others/Ruben%20Post%205.jpg)
 
 ---
