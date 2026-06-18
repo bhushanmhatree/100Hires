@@ -63,8 +63,8 @@ I've been teasing some results from this experiment but now I have the full 30 d
 If you want to receive that, then you will need to join Your Next Post here: https://lnkd.in/gcw3Crgh
 
 ---
-### LinkedIn Post 3 ()
-### Post Date: 17-06-2026
+### LinkedIn Post 3 (https://www.linkedin.com/posts/mattjbarker1_ive-no-idea-if-this-will-work-or-who-this-activity-7472526357470593024-K_3o?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
+### Post Date: 15-06-2026
 ### Post Text:
 I've no idea if this will work or who this will even find but I'm gonna make a random, free offer today based on something I keep seeing on the LinkedIn feed.
 
@@ -112,15 +112,64 @@ I will select who I want to do this for from the applicants, so if you’re gonn
 > ![image alt](https://github.com/bhushanmhatree/100Hires/blob/66787fc37b5220cabf4db937080653bd7a9debc2/research/others/Matt%20Post%203.jpg)
 
 ---
-### LinkedIn Post 4
-### Post Date: 17-06-2026
+### LinkedIn Post 4 (https://www.linkedin.com/posts/mattjbarker1_you-can-be-worth-40m-but-still-get-ignored-activity-7468632307122421760-T_tL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
+### Post Date: 11-06-2026
 ### Post Text:
-> ![image alt]()
+You can be worth $40M+ but STILL get ignored on LinkedIn. 
+
+I've spent 4 years posting every day on here. 2,600+ posts. 50M+ impressions, worked with experienced founders, ceos, vps, managers they lead with knowledge but nobody listens.
+
+Knowledge alone won't do it, you need to start from scratch:
+
+- where you came from
+- what you've actually built
+- the struggle it took to get here
+
+Share that first. THEN people will care what you know.
+
+I made this exact mistake for my first 12 months writing online.
+
+Here's how I can help you fix it faster than I did: mattbarker.xyz
 
 ---
-### LinkedIn Post 5
-### Post Date: 17-06-2026
+### LinkedIn Post 5 (https://www.linkedin.com/posts/mattjbarker1_theres-this-guy-on-linkedin-a-lawyer-hes-activity-7465370920124248064-03F-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
+### Post Date: 04-06-2026
 ### Post Text:
-> ![image alt]()
+There's this guy on LinkedIn, a lawyer. He's called Jimmy Lai.
+
+I see his posts EVERYWHERE. It's SO annoying.
+
+- when i check linkedin in the morning
+- when i check linkedin at night
+- when i check linkedin in the day
+
+Doesn't matter. This guy is jamming my feed with posts I just wanna READ. 
+
+Some of it is weird. Some of it is hearfelt. Some of it, actually, kinda makes me angry (he's good at ruffling some feathers and creating some conversation).
+
+Where did this random lawyer named Jimmy come from?
+
+Well, I'm kinda responsible for that.
+
+Because in November, Jimmy joined my LinkedIn Bootcamp and then what happened next is what you see in the graph and testimonial below.
+
+His posts went from getting 70ish likes to 147 and 164 likes.
+
+He suddenly had more ideas for posts than he could ever imagine and as you can see, he started posting 17.7 times per week.
+
+Yep, absolute machine.
+
+I'm partly responsible for this insane growth.
+
+Of course, Jimmy was the one doing the actual work.
+
+I just, as he says "unlocked something".
+
+If you want me to help you 'do a Jimmy':
+
+DM me 'jimmy' and i'll give you the deets for the next bootcamp.
+
+It starts 8th June and there's only 15 spots available.
+> ![image alt](https://github.com/bhushanmhatree/100Hires/blob/9a723489907cbce2e67d260ed644675dbe5966a5/research/others/Matt%20Post%205.jpg)
 
 ---
