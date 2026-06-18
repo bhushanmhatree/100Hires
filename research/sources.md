@@ -32,10 +32,10 @@ _Last updated: 2026-06-17 · 10 experts_
 ## 4. [Matt Barker]
 - **LinkedIn:** [https://www.linkedin.com/in/mattjbarker1/]  
 - **Added:** [17-06-2026]  
-- **Why practitioner:** [TO FILL]  
-- **Focus areas:** [TO FILL]  
+- **Why practitioner:** [Shares his own learning and process with Video and Text Content]  
+- **Focus areas:** [LinkedIn Marketing, AI for Content Creation,]  
 - **Content collected:** [5]  
-- **Key insight:** [TO FILL]
+- **Key insight:** [Always share new learning and solves minor problems that are usually ignored]
 
 ---
 ## 5. [Courtney Johnson]
