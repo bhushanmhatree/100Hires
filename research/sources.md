@@ -23,10 +23,10 @@ _Last updated: 2026-06-17 · 10 experts_
 ## 3. [Ishan Sharma]
 - **LinkedIn:** [https://www.linkedin.com/in/ishansharma7390/]  
 - **Added:** [17-06-2026]  
-- **Why practitioner:** [TO FILL]  
-- **Focus areas:** [TO FILL]  
+- **Why practitioner:** [Runs marketing agency called MarkitUp, Talks about Marketing and AI Applications]  
+- **Focus areas:** [Marketing, Personal Branding, AI]  
 - **Content collected:** [5] 
-- **Key insight:** [TO FILL]
+- **Key insight:** [Provide wide range of topics from AI, Marketing, Branding and SAAS Applications]
 
 ---
 ## 4. [Matt Barker]
