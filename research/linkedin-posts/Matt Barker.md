@@ -63,9 +63,52 @@ I've been teasing some results from this experiment but now I have the full 30 d
 If you want to receive that, then you will need to join Your Next Post here: https://lnkd.in/gcw3Crgh
 
 ---
-### LinkedIn Post 3
+### LinkedIn Post 3 ()
 ### Post Date: 17-06-2026
 ### Post Text:
+I've no idea if this will work or who this will even find but I'm gonna make a random, free offer today based on something I keep seeing on the LinkedIn feed.
+
+If you:
+
+- have 50,000+ followers on LinkedIn
+- have a decade+ experience in your industry
+- are an expert in your field
+- have been posting on LinkedIn for 2+ years
+- have generated 1Ms or even 10Ms of impressions
+- believe that you deserve more impressions
+
+But over the last few months your posts just do not get the impressions that they used to.
+
+Then I will write one LinkedIn post for you for FREE.
+
+I absolutely hate seeing experts in their field, experienced operators and true legends…saying LinkedIn isn’t giving them impressions anymore.
+
+Normally to me, it’s really REALLY clear why those impressions aren’t coming, so I want to prove how easy it is / can be. 
+
+Just needs a different approach.
+
+Proof I know what I’m doing:
+
+- written 2,900 posts since January 2022
+- 4.5 years of showing up daily on LinkedIn
+- 75M+ impressions on LinkedIn in 4.5 years
+- 192,000 followers
+- coached / mentored 200+ founders & CEOs
+
+(check out my services bit on my profile for testimonials. you’ll see I’ve personally mentored some of the biggest most well known founders on LI on their writing and content)
+
+- $3M+ driven for clients using organic LI
+- attached is my last 90 days of stats + best posts
+
+Blah blah - I know this stuff, basically!
+
+If you want in on this:
+
+Drop me a message with the secret password ‘write’ so I know what you’re here for.
+
+I have NO idea how many people will apply for this, but I’ll cap it at 5 spots max to protect my sanity.
+
+I will select who I want to do this for from the applicants, so if you’re gonna get arsey because I don’t pick you, don’t apply
 > ![image alt]()
 
 ---
