@@ -238,10 +238,8 @@ How to never be stuck on "I don't know how" again:
 
 To copy-paste the skill prompt instead:
 
---
 name: how-to
 description: Turn any 'I want to do X with Claude but I don't know how' into a finished result the user built with their own hands. Use this whenever someone names a goal they want to reach with Claude or AI and wants to be walked there until it is actually done. That covers building a Cowork workflow, automating a repetitive task, setting up a content or newsletter system, writing better prompts, connecting a tool, organizing files, or any 'how do I get Claude to' request. Trigger on phrases like 'how do I', 'I want to do this with Claude', 'give me the exact steps', 'walk me through', 'teach me to', 'I don't know how to', 'get me to the result', or the command /how-to. The skill maps the full step list first, then coaches one rookie-level step at a time and will not move on until the current step is finished and understood. Built for non-technical beginners.
---
 
 How-to
 Coach a non-technical person from "I want to do X with Claude but I don't know how" to a finished result they built with their own hands, in a way they could repeat without you.
