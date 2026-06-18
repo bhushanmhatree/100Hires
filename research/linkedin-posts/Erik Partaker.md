@@ -1,7 +1,8 @@
 ### Expert Name: Eric Partaker
 ### LinkedIn Account (https://www.linkedin.com/in/ericpartaker/)
 ---
-### LinkedIn Post 1 (https://www.linkedin.com/posts/ericpartaker_a-full-operations-book-in-one-page-heres-share-7472906868839911425-SH1P/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0) | Date: 17-06-2026
+### LinkedIn Post 1 (https://www.linkedin.com/posts/ericpartaker_a-full-operations-book-in-one-page-heres-share-7472906868839911425-SH1P/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
+### Post Date: 17-06-2026
 ### Post Text:
 >A full OPERATIONS BOOK in one page 📌
 
@@ -37,7 +38,7 @@ P.S. If you found this valuable and want to support my work:
 3. Drop a like
 
 Thank you!
-> ![image alt]()
+> ![image alt](https://github.com/bhushanmhatree/100Hires/blob/224494dc5e0fd24fbdf8d0dd004725ccb5f1d12a/research/others/Eric%20Post%201.jpg)
 
 ---
 ### LinkedIn Post 2 | Date: 17-06-2026
