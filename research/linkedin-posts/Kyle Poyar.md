@@ -132,15 +132,75 @@ One thing hasn't changed. We still can't agree on a name for this role. I'm seei
 > ![image alt](https://github.com/bhushanmhatree/100Hires/blob/6e90001fe68e05f9593c725d2bf6e5968570122b/research/others/Kyle%20Post%203.jpg)
 
 ---
-### LinkedIn Post 4 ()
-### Post Date: 17-06-2026
+### LinkedIn Post 4 (https://www.linkedin.com/posts/kyle-poyar_i-did-a-quick-side-quest-to-ny-tech-week-activity-7468284394785492993-gEM2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
+### Post Date: 05-06-2026
 ### Post Text:
-> ![image alt]()
+I did a quick side quest to NY Tech Week yesterday & had a chance to talk to a few dozen GTM leaders. On everyone's mind: the messiness of AI transformation. 
+
+Brian D. & Sid Suri shared Fin's story, which IMO is one of the most impressive pivots from SaaS > AI. They're doing $100M ARR from AI & growing exponentially, 1,100 out of 1,300 employees use Claude Code, and they had 4 Tier 1 launches in the last 4 weeks 🤯
+
+But what doesn't get as much airtime:
+
+1️⃣ One of Fin's launches (Operator) essentially made a product they launched 6 weeks prior redundant. Building w/ AI can feel like a treadmill where the pace keeps getting turned up but you end up in the same place.
+
+The learning: Build products based on what will be possible, not just what AI can already do. And make hard calls to throw out the outdated roadmap.
+
+2️⃣ Everyone's moving faster & automating with AI, but work weeks aren't getting any shorter. If anything, there's *more* work now than before.
+
+The learning: Tbh, I'm not sure I have one yet. For now I'd say don't shortchange the foundations -- context files, ICP definitions, positioning, brand voice, skills, integrations, closing the loop on AI outputs -- so you're not constantly starting from scratch.
+
+3️⃣ Fin's had an amazing pivot to AI, but they were also pushed into it. Growth rates had fallen to <5% & their founder jumped back into the CEO role. It's much harder to do this if the existing SaaS is still growing.
+
+The learning: It's almost impossible to become fully AI-native w/o a hard pivot, and a hard pivot requires a mandate from the top.
+
+4️⃣ Customers are vibecoding their own tools w/ Claude. Competitors are emerging from out of nowhere. Everyone claims to have the same feature & customers are left to sort through the noise.
+
+The learning: AI companies need to compete on product *quality* not features -- which means teaching prospects how to evaluate quality. The winners are writing the RFP that prospects use in their bake-off.
 
 ---
-### LinkedIn Post 5 ()
-### Post Date: 17-06-2026
+
+With so much uncertainty right now, it was great to commiserate & hear what others are doing. Anyway, back to BOS for me, but the Fin space is open until 9pm today if you're looking for coffee, coworking, and/or more sessions.
+
+---
+### LinkedIn Post 5 (https://www.linkedin.com/posts/kyle-poyar_the-initial-decision-about-which-customer-activity-7467928850438627330-guvB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFluPjQBuohD75A5Q-Nq85nb0D3j2LzFMm0)
+### Post Date: 04-06-2026
 ### Post Text:
-> ![image alt]()
+The initial decision about which customer to target (and how much to charge them) can feel almost arbitrary when you're just trying to hit your first $10k MRR. It's not. 
+
+Back in 2014, Christoph Janz from Point Nine wrote what I’d consider to be a seminal framework. It maps the ways to build a $100M ARR SaaS company based on your target customer (which animal you're hunting). Four routes remain evergreen:
+
+🐭 Hunting mice: Attract 1 million customers paying $100/year. 
+🐰 Hunting rabbits: Attract 100,000 customers paying $1,000/year. 
+🦌 Hunting deer: Attract 10,000 customers paying $10,000/yr.
+🐘 Hunting elephants: Attract 1,000 customers paying $100,000/year. 
+
+So how do these different paths actually hold up in the data? I turned to ChartMogul & looked at 1,043 SaaS and AI companies that all reached at least $10k MRR.
+
+Read the full report in Growth Unhinged: https://lnkd.in/effEefxQ
+
+The key insights from the data:
+
+1. The most popular path to $10k MRR is hunting rabbits 🐰. That's 100 customers paying $100 per month.
+
+The $100/mo. price point sits in a sweet spot: low enough for cash-strapped early adopters and SMBs, high enough that customers take the product seriously and give you real feedback.
+
+2. Mouse 🐭 and rabbit 🐰 hunters face brutal churn in the early days.
+
+The median annualized gross revenue retention (GRR) at $10k MRR is just 24.6% for mouse hunters and 31.6% for rabbit hunters. For deer hunters, it's 70.5%. For elephant hunters? 100%.
+
+3. Your initial target customer sticks with you.
+
+70% keep the same target customer 3+ years after their first $10k MRR. When startups do manage to change animals, they usually move one animal upmarket (🦌 is a popular destination).
+
+4. Deer 🦌 hunters are growing 3-5x faster than everyone else.
+
+Growth rates at $10k MRR were nearly identical across all four groups. 3 years later, the differences became stark.
+
+---
+
+The data shows that startups become what they hunt, and most never change.
+
+Which animal are you hunting?
+> ![image alt](https://github.com/bhushanmhatree/100Hires/blob/54252d5ede9eb0091cab13ae0c437b060391653b/research/others/Kyle%20Post%205.jpg)
 
 ---
