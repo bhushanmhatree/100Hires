@@ -96,10 +96,10 @@
 
 - **LinkedIn:** [https://www.linkedin.com/in/jasonmlemkin/]  
 - **Added:** [19-06-2026]  
-- **Why practitioner:** [Built SaaStr from his own SaaS exits; posts daily on B2B SaaS metrics, fundraising, and go-to-market specifics.]  
-- **Focus areas:** [TO FILL]  
-- **Content collected:** [TO FILL]
-- **Key insight:** [TO FILL]
+- **Why practitioner:** [Built SaaStr from his own SaaS exits, posts daily on B2B SaaS metrics, fundraising, and go-to-market specifics.]  
+- **Focus areas:** [B2B, AI Development]  
+- **Content collected:** [5]
+- **Key insight:** [Less engagement but content is niched down to AI, Fund Raising, and Business to Business Connections]
 
 ---
 
