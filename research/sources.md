@@ -81,10 +81,10 @@
 
 ---
 
-## 8. [Vedika Bhaia]
+## 8. [Kyle Poyar]
 
-- **LinkedIn:** [[https://www.linkedin.com/in/vedikabhaia/]](https://www.linkedin.com/in/vedikabhaia/])  
-- **Added:** [18-06-2026]  
+- **LinkedIn:** [[https://www.linkedin.com/in/kyle-poyar/]](https://www.linkedin.com/in/kyle-poyar/)  
+- **Added:** [19-06-2026]  
 - **Why practitioner:** [TO FILL]  
 - **Focus areas:** [TO FILL]  
 - **Content collected:** [TO FILL]  
@@ -92,10 +92,10 @@
 
 ---
 
-## 9. [Simon Schmitz]
+## 9. [Jason Lemkin]
 
-- **LinkedIn:** [https://www.linkedin.com/in/simon-schmitz-tx/]  
-- **Added:** [18-06-2026]  
+- **LinkedIn:** [https://www.linkedin.com/in/jasonmlemkin/]  
+- **Added:** [19-06-2026]  
 - **Why practitioner:** [TO FILL]  
 - **Focus areas:** [TO FILL]  
 - **Content collected:** [TO FILL]
@@ -103,10 +103,10 @@
 
 ---
 
-## 10. [James Peters]
+## 10. [Aaron Box]
 
-- **LinkedIn:** [https://www.linkedin.com/in/jamesajpeters/]  
-- **Added:** [18-06-2026]  
+- **LinkedIn:** [https://www.linkedin.com/in/boxaaron/]  
+- **Added:** [19-06-2026]  
 - **Why practitioner:** [TO FILL]  
 - **Focus areas:** [TO FILL]  
 - **Content collected:** [TO FILL] 
