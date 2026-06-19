@@ -108,9 +108,9 @@
 - **LinkedIn:** [https://www.linkedin.com/in/boxaaron/]  
 - **Added:** [19-06-2026]  
 - **Why practitioner:** [Public company SaaS CEO who posts sharp, opinionated takes on enterprise software shifts]  
-- **Focus areas:** [TO FILL]  
-- **Content collected:** [TO FILL] 
-- **Key insight:** [TO FILL]
+- **Focus areas:** [Content Management, AI Agents]  
+- **Content collected:** [5] 
+- **Key insight:** [Share updates about AI, SAAS, Agents and how he is applying them to his Startup]
 
 ---
 
