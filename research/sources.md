@@ -63,7 +63,7 @@
 
 - **LinkedIn:** [[https://www.linkedin.com/in/saheli-chatterjee-organic-marketing/]](https://www.linkedin.com/in/saheli-chatterjee-organic-marketing/])  
 - **Added:** [18-06-2026]  
-- **Why practitioner:** [Great at storytelling with pratical use cases]  
+- **Why practitioner:** [Practices the storytelling format she teaches.]  
 - **Focus areas:** [Organic Marketing, Content Creation, Sales]  
 - **Content collected:** [5] 
 - **Key insight:** [Talks about Organic Marketing, How to use AI for Content Creation]
@@ -73,11 +73,11 @@
 ## 7. [Lara Acostar]
 
 - **LinkedIn:** [[https://www.linkedin.com/in/laraacostar/]](https://www.linkedin.com/in/laraacostar/])  
-- **Added:** [TO FILL]  
-- **Why practitioner:** [TO FILL]  
-- **Focus areas:** [TO FILL]  
-- **Content collected:** [TO FILL]  
-- **Key insight:** [TO FILL]
+- **Added:** [19-06-2026]  
+- **Why practitioner:** [Grew her own following from zero while running an agency for founders]  
+- **Focus areas:** [Personal Branding, B2B Leads, LinkedIn Marketing]  
+- **Content collected:** [5] 
+- **Key insight:** [Rising creator with practical applications for agency and business owners]
 
 ---
 
@@ -85,7 +85,7 @@
 
 - **LinkedIn:** [[https://www.linkedin.com/in/kyle-poyar/]](https://www.linkedin.com/in/kyle-poyar/)  
 - **Added:** [19-06-2026]  
-- **Why practitioner:** [TO FILL]  
+- **Why practitioner:** [Writes Growth Unhinged and advises SaaS companies directly on pricing and grounded in live client work.]  
 - **Focus areas:** [TO FILL]  
 - **Content collected:** [TO FILL]  
 - **Key insight:** [TO FILL]
@@ -96,18 +96,18 @@
 
 - **LinkedIn:** [https://www.linkedin.com/in/jasonmlemkin/]  
 - **Added:** [19-06-2026]  
-- **Why practitioner:** [TO FILL]  
+- **Why practitioner:** [Built SaaStr from his own SaaS exits; posts daily on B2B SaaS metrics, fundraising, and go-to-market specifics.]  
 - **Focus areas:** [TO FILL]  
 - **Content collected:** [TO FILL]
 - **Key insight:** [TO FILL]
 
 ---
 
-## 10. [Aaron Box]
+## 10. [Aaron Levie]
 
 - **LinkedIn:** [https://www.linkedin.com/in/boxaaron/]  
 - **Added:** [19-06-2026]  
-- **Why practitioner:** [TO FILL]  
+- **Why practitioner:** [Public company SaaS CEO who posts sharp, opinionated takes on enterprise software shifts]  
 - **Focus areas:** [TO FILL]  
 - **Content collected:** [TO FILL] 
 - **Key insight:** [TO FILL]
