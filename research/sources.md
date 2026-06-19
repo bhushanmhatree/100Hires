@@ -86,9 +86,9 @@
 - **LinkedIn:** [[https://www.linkedin.com/in/kyle-poyar/]](https://www.linkedin.com/in/kyle-poyar/)  
 - **Added:** [19-06-2026]  
 - **Why practitioner:** [Writes Growth Unhinged and advises SaaS companies directly on pricing and grounded in live client work.]  
-- **Focus areas:** [TO FILL]  
-- **Content collected:** [TO FILL]  
-- **Key insight:** [TO FILL]
+- **Focus areas:** [GTM System, Monetization Newsletter]  
+- **Content collected:** [5]  
+- **Key insight:** [Provides heavy data in his content completely applicable.]
 
 ---
 
