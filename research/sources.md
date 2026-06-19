@@ -94,7 +94,7 @@
 
 ## 9. [Jason Lemkin]
 
-- **LinkedIn:** [https://www.linkedin.com/in/jasonmlemkin/]  
+- **LinkedIn:** [[https://www.linkedin.com/in/jasonmlemkin/]](https://www.linkedin.com/in/jasonmlemkin/])  
 - **Added:** [19-06-2026]  
 - **Why practitioner:** [Built SaaStr from his own SaaS exits, posts daily on B2B SaaS metrics, fundraising, and go-to-market specifics.]  
 - **Focus areas:** [B2B, AI Development]  
@@ -105,7 +105,7 @@
 
 ## 10. [Aaron Levie]
 
-- **LinkedIn:** [https://www.linkedin.com/in/boxaaron/]  
+- **LinkedIn:** [[https://www.linkedin.com/in/boxaaron/]](https://www.linkedin.com/in/boxaaron/])  
 - **Added:** [19-06-2026]  
 - **Why practitioner:** [Public company SaaS CEO who posts sharp, opinionated takes on enterprise software shifts]  
 - **Focus areas:** [Content Management, AI Agents]  
