@@ -24,9 +24,23 @@ The main deliverable is the [B2B LinkedIn Organic Growth Playbook](PLAYBOOK.md),
 
 ## Research Method
 
-The research focuses on 10 practitioners who actively use LinkedIn, not passive commentators. Each source was chosen because they either run a company, advise clients, build an audience, or publish from direct operating experience.
+This project uses the same logic explained in the playbook: every recommendation should connect back to real posts from real practitioners.
 
-The collected material is LinkedIn-first by design. No paid distribution strategy, YouTube strategy, podcast strategy, or newsletter strategy is treated as the main scope.
+The research focuses on 10 practitioners who actively use LinkedIn, not passive commentators. Each source was chosen because they either run a company, advise clients, build an audience, or publish from direct operating experience. The goal was to study people who practice what they teach.
+
+For each expert, I collected recent LinkedIn posts and saved them in `research/linkedin-posts/`. These posts are the raw material behind the playbook. When the playbook makes a recommendation, it points back to specific source posts so the reader can check where the idea came from.
+
+The method followed five simple rules:
+
+1. Pick practitioners, not commentators.
+2. Collect recent LinkedIn posts from each expert.
+3. Save source notes in `research/sources.md`.
+4. Look for repeated patterns, disagreements, and weak tactics.
+5. Turn the strongest findings into a practical SOP in `PLAYBOOK.md`.
+
+Some claims were checked against outside sources when needed, and those checks are marked inside the playbook. The project also keeps its limits visible: this was a small sample of 10 accounts, the collection window was short, and many performance numbers on LinkedIn are self-reported by the creators.
+
+The collected material is LinkedIn-first by design. Paid ads, YouTube, podcasts, newsletters, and cross-platform strategy are not treated as the main scope.
 
 ## Folder Structure
 
@@ -55,7 +69,16 @@ The collected material is LinkedIn-first by design. No paid distribution strateg
 
 ## How To Use This Repo
 
-Start with [PLAYBOOK.md](PLAYBOOK.md) for the finished recommendations. Use `research/sources.md` and `research/linkedin-posts/` if you want to audit the source material behind the conclusions.
+Follow these steps if you are new to this project:
+
+1. Start with this `README.md` to understand what the project is about.
+2. Open [PLAYBOOK.md](PLAYBOOK.md). This is the main guide and the best place to begin.
+3. Read the `The SOP` section inside the playbook first. It gives the step-by-step LinkedIn organic growth process.
+4. If you want to know where a recommendation came from, open [research/sources.md](research/sources.md). This file lists the 10 experts used in the research.
+5. To inspect the original examples, open the files inside [research/linkedin-posts/](research/linkedin-posts/). Each file contains collected posts from one expert.
+6. Check [research/others/](research/others/) if you want to see supporting images, screenshots, or extra reference material.
+7. Use the playbook to build your own LinkedIn strategy: fix positioning first, study the post examples, choose a repeatable post format, and review results weekly.
+8. When adding new research later, save new expert notes in `research/sources.md` and new LinkedIn post examples in `research/linkedin-posts/`.
 
 ## Status
 
