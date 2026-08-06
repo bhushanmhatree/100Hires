@@ -1,6 +1,8 @@
 # 100Hires LinkedIn B2B Organic Strategy Research
 
-This repository contains a research-backed playbook for building a B2B LinkedIn presence through organic content.
+## About This Repository
+
+This repository is a research-backed guide to building a B2B LinkedIn presence with organic content. It studies real practitioners, captures their recent LinkedIn posts, and turns the observed patterns into a practical growth playbook for founders, operators, consultants, and B2B marketers.
 
 The main deliverable is the [B2B LinkedIn Organic Growth Playbook](PLAYBOOK.md), built from practitioner research collected in the `research/` folder.
 
@@ -17,7 +19,8 @@ The main deliverable is the [B2B LinkedIn Organic Growth Playbook](PLAYBOOK.md),
 - [PLAYBOOK.md](PLAYBOOK.md) - Final SOP and analysis for B2B LinkedIn organic growth
 - [research/sources.md](research/sources.md) - Expert source list and annotations
 - [research/linkedin-posts/](research/linkedin-posts/) - Collected LinkedIn post examples
-- [research/other/](research/other/) - Supporting research and non-LinkedIn references
+- [research/others/](research/others/) - Supporting images, screenshots, and non-LinkedIn reference material
+- [commit_research.sh](commit_research.sh) - Helper script for staging, committing, and pushing research updates
 
 ## Research Method
 
@@ -28,10 +31,26 @@ The collected material is LinkedIn-first by design. No paid distribution strateg
 ## Folder Structure
 
 ```text
-research/
-├── sources.md
-├── linkedin-posts/
-└── other/
+.
+|-- README.md
+|-- PLAYBOOK.md
+|-- commit_research.sh
+`-- research/
+    |-- sources.md
+    |-- linkedin-posts/
+    |   |-- Aaron Levie.md
+    |   |-- Eric Partaker.md
+    |   |-- Ishan Sharma.md
+    |   |-- Jason Lemkin.md
+    |   |-- Jess Ramos.md
+    |   |-- Kyle Poyar.md
+    |   |-- Lara Acostar.md
+    |   |-- Matt Barker.md
+    |   |-- Ruben Hassid.md
+    |   `-- Saheli Chatterjee.md
+    `-- others/
+        |-- images.txt
+        `-- supporting image files
 ```
 
 ## How To Use This Repo
